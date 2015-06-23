@@ -4,7 +4,7 @@ This plug-in lets you set a Access-Control-Allow-Origin header for a specific pa
 
 BASIC USAGE:
 
-    {exp:np_access-control-allow-origin domain="www.example.com"}
+    {exp:np_access_control_allow_origin domain="www.example.com"}
 
 PARAMETERS:
 
